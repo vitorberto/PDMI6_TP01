@@ -1,0 +1,16 @@
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\bin\Debug\netstandard2.0\PDMI6_TP01.deps.json
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\bin\Debug\netstandard2.0\PDMI6_TP01.dll
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\bin\Debug\netstandard2.0\PDMI6_TP01.pdb
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.csproj.AssemblyReference.cache
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.AssemblyInfoInputs.cache
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.AssemblyInfo.cs
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.csproj.CoreCompileInputs.cache
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.dll
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\refint\PDMI6_TP01.dll
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.pdb
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\ref\PDMI6_TP01.dll
+C:\Users\vitub\Documents\Faculdade\PDMI6\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\Credits.xaml.g.cs

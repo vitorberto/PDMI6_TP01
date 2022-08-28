@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTLGkmzPGZzdKjig4EJz5Q3wsrhkTR5UMdGEFIXsaR7d26hBnXjAn9uKnY8zZ8MzZ9q+rjBTsXZ00kiMAfY5QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitub\\Documents\\Faculdade\\PDMI6\\PDMI6_TP01\\PDMI6_TP01\\PDMI6_TP01.iOS\\PDMI6_TP01.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitub\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vitub\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\vitub\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
